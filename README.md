@@ -23,7 +23,8 @@ A user-friendly digital library and book rental platform that allows users to br
 ## 📸 Screenshots
 
 | Home | Book Detail | User Dashboard |
-📌 Home Page | 📚 Book Detail Page | 📋 User Dashboard
+|------|---------------|---------|
+|Home Page | Book Detail Page | User Dashboard |
 
 ## ⚙ Installation & Setup
 
