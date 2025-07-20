@@ -81,7 +81,7 @@ Please fork the repository and submit a pull request with clear commit messages.
 
 This project is licensed under the MIT License.
 
-📁 Drive: 
+📁 Drive: https://drive.google.com/drive/folders/1AasBcXOpKo-SWsSE3SgL8LEaPN2icMu_?usp=sharing
 
-🌐 Live Demo: Watch Demo on YouTube
+🌐 Live Demo: https://drive.google.com/file/d/1ogqojMrpogEKNKJpQbJ_3VYxqTTVuWFu/view?usp=sharing
 
