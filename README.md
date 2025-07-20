@@ -24,7 +24,7 @@ A user-friendly digital library and book rental platform that allows users to br
 
 | Home | Book Detail | User Dashboard |
 |------|---------------|---------|
-|Home Page | Book Detail Page | User Dashboard |
+| ![Home](screenshots/home.png) | ![Details](screenshots/search.png) | ![Dashboard](screenshots/booking.png) |
 
 ## ⚙ Installation & Setup
 
