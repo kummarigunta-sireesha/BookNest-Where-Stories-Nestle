@@ -15,10 +15,10 @@ A user-friendly digital library and book rental platform that allows users to br
 ## 🛠 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript / React (customize per your stack)
--**Backend**: Node.js / Django / Flask (select your backend)
--**Database**: MongoDB / MySQL / PostgreSQL
--**Authentication**: JWT / Firebase / OAuth
--**Deployment**: Vercel / Netlify / Heroku / Render
+- **Backend**: Node.js / Django / Flask (select your backend)
+- **Database**: MongoDB / MySQL / PostgreSQL
+- **Authentication**: JWT / Firebase / OAuth
+- **Deployment**: Vercel / Netlify / Heroku / Render
 
 ## 📸 Screenshots
 
